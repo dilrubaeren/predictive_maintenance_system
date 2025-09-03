@@ -1,0 +1,14 @@
+{
+    "machine_id": "L47253",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 299.0,
+        "process_temp": 309.1,
+        "rotational_speed": 1592.0,
+        "torque": 35.0,
+        "tool_wear": 200.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:47",
+    "last_updated": "2025-08-04 14:10:47"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "L50312",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.1,
+        "process_temp": 309.5,
+        "rotational_speed": 1557.0,
+        "torque": 40.6,
+        "tool_wear": 59.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:51",
+    "last_updated": "2025-08-04 14:10:51"
+}

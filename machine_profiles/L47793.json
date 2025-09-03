@@ -1,0 +1,14 @@
+{
+    "machine_id": "L47793",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.1,
+        "process_temp": 309.9,
+        "rotational_speed": 1634.0,
+        "torque": 30.0,
+        "tool_wear": 53.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

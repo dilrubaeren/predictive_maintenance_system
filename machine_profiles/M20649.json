@@ -1,0 +1,14 @@
+{
+    "machine_id": "M20649",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 301.8,
+        "process_temp": 311.5,
+        "rotational_speed": 1416.0,
+        "torque": 49.0,
+        "tool_wear": 136.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

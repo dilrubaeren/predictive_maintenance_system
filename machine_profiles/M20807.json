@@ -1,0 +1,14 @@
+{
+    "machine_id": "M20807",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.7,
+        "process_temp": 310.8,
+        "rotational_speed": 1465.0,
+        "torque": 45.2,
+        "tool_wear": 92.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

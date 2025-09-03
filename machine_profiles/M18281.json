@@ -1,0 +1,14 @@
+{
+    "machine_id": "M18281",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 301.5,
+        "process_temp": 310.5,
+        "rotational_speed": 1612.0,
+        "torque": 29.8,
+        "tool_wear": 148.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:51",
+    "last_updated": "2025-08-04 14:10:51"
+}

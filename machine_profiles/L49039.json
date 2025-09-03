@@ -1,0 +1,14 @@
+{
+    "machine_id": "L49039",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 297.8,
+        "process_temp": 307.4,
+        "rotational_speed": 1355.0,
+        "torque": 45.8,
+        "tool_wear": 60.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

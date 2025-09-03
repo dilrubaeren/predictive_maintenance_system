@@ -1,0 +1,14 @@
+{
+    "machine_id": "L49001",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.1,
+        "process_temp": 307.6,
+        "rotational_speed": 1354.0,
+        "torque": 43.3,
+        "tool_wear": 155.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

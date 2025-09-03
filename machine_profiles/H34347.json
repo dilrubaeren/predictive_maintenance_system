@@ -1,0 +1,14 @@
+{
+    "machine_id": "H34347",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 303.4,
+        "process_temp": 312.2,
+        "rotational_speed": 1554.0,
+        "torque": 36.8,
+        "tool_wear": 85.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

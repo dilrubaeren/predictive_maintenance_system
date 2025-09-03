@@ -1,0 +1,14 @@
+{
+    "machine_id": "H34770",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 303.3,
+        "process_temp": 312.6,
+        "rotational_speed": 1692.0,
+        "torque": 29.0,
+        "tool_wear": 125.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

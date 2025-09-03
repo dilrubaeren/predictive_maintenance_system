@@ -1,0 +1,14 @@
+{
+    "machine_id": "L56600",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.0,
+        "process_temp": 308.4,
+        "rotational_speed": 1472.0,
+        "torque": 42.0,
+        "tool_wear": 15.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:57",
+    "last_updated": "2025-08-04 14:10:57"
+}

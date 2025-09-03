@@ -1,0 +1,14 @@
+{
+    "machine_id": "H30335",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 295.5,
+        "process_temp": 305.9,
+        "rotational_speed": 1593.0,
+        "torque": 37.2,
+        "tool_wear": 197.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

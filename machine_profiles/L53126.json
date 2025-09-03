@@ -1,0 +1,14 @@
+{
+    "machine_id": "L53126",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.7,
+        "process_temp": 310.8,
+        "rotational_speed": 1496.0,
+        "torque": 46.4,
+        "tool_wear": 90.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "L55244",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.5,
+        "process_temp": 311.8,
+        "rotational_speed": 1596.0,
+        "torque": 34.8,
+        "tool_wear": 87.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:56",
+    "last_updated": "2025-08-04 14:10:56"
+}

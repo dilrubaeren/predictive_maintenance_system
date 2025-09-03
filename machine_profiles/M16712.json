@@ -1,0 +1,14 @@
+{
+    "machine_id": "M16712",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 297.6,
+        "process_temp": 307.1,
+        "rotational_speed": 1526.0,
+        "torque": 39.1,
+        "tool_wear": 39.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

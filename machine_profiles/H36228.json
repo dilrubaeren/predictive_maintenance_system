@@ -1,0 +1,14 @@
+{
+    "machine_id": "H36228",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 300.8,
+        "process_temp": 310.6,
+        "rotational_speed": 1465.0,
+        "torque": 44.1,
+        "tool_wear": 136.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:54",
+    "last_updated": "2025-08-04 14:10:54"
+}

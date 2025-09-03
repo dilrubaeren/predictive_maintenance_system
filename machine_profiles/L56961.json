@@ -1,0 +1,14 @@
+{
+    "machine_id": "L56961",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.8,
+        "process_temp": 309.9,
+        "rotational_speed": 1441.0,
+        "torque": 41.6,
+        "tool_wear": 62.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:57",
+    "last_updated": "2025-08-04 14:10:57"
+}

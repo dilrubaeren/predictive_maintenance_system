@@ -1,0 +1,14 @@
+{
+    "machine_id": "L55662",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.4,
+        "process_temp": 309.5,
+        "rotational_speed": 1520.0,
+        "torque": 38.1,
+        "tool_wear": 106.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:56",
+    "last_updated": "2025-08-04 14:10:56"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "L50174",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.5,
+        "process_temp": 309.8,
+        "rotational_speed": 1461.0,
+        "torque": 52.5,
+        "tool_wear": 146.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:50",
+    "last_updated": "2025-08-04 14:10:50"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "M15766",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 295.6,
+        "process_temp": 306.1,
+        "rotational_speed": 1462.0,
+        "torque": 49.2,
+        "tool_wear": 158.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

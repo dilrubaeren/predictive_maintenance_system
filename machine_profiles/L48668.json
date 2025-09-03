@@ -1,0 +1,14 @@
+{
+    "machine_id": "L48668",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.2,
+        "process_temp": 309.1,
+        "rotational_speed": 1568.0,
+        "torque": 36.3,
+        "tool_wear": 166.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "M24608",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 298.9,
+        "process_temp": 310.1,
+        "rotational_speed": 1441.0,
+        "torque": 41.2,
+        "tool_wear": 189.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:57",
+    "last_updated": "2025-08-04 14:10:57"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "M16124",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 297.8,
+        "process_temp": 309.3,
+        "rotational_speed": 2243.0,
+        "torque": 15.7,
+        "tool_wear": 36.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

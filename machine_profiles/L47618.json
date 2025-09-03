@@ -1,0 +1,14 @@
+{
+    "machine_id": "L47618",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 297.4,
+        "process_temp": 308.4,
+        "rotational_speed": 1341.0,
+        "torque": 52.2,
+        "tool_wear": 49.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

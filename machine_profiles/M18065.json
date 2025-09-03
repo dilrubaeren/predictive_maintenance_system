@@ -1,0 +1,14 @@
+{
+    "machine_id": "M18065",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.1,
+        "process_temp": 308.9,
+        "rotational_speed": 1548.0,
+        "torque": 38.4,
+        "tool_wear": 31.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:51",
+    "last_updated": "2025-08-04 14:10:51"
+}

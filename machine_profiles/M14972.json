@@ -1,0 +1,14 @@
+{
+    "machine_id": "M14972",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 298.8,
+        "process_temp": 308.7,
+        "rotational_speed": 1498.0,
+        "torque": 39.5,
+        "tool_wear": 89.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:47",
+    "last_updated": "2025-08-04 14:10:47"
+}

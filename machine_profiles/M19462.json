@@ -1,0 +1,14 @@
+{
+    "machine_id": "M19462",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 303.0,
+        "process_temp": 311.0,
+        "rotational_speed": 1409.0,
+        "torque": 41.7,
+        "tool_wear": 120.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:52",
+    "last_updated": "2025-08-04 14:10:52"
+}

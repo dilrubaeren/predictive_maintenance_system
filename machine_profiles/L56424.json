@@ -1,0 +1,14 @@
+{
+    "machine_id": "L56424",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.3,
+        "process_temp": 308.8,
+        "rotational_speed": 1767.0,
+        "torque": 27.3,
+        "tool_wear": 168.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:57",
+    "last_updated": "2025-08-04 14:10:57"
+}

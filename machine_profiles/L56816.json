@@ -1,0 +1,14 @@
+{
+    "machine_id": "L56816",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 299.2,
+        "process_temp": 310.3,
+        "rotational_speed": 1507.0,
+        "torque": 41.3,
+        "tool_wear": 158.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:57",
+    "last_updated": "2025-08-04 14:10:57"
+}

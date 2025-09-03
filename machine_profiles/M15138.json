@@ -1,0 +1,14 @@
+{
+    "machine_id": "M15138",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 298.0,
+        "process_temp": 308.0,
+        "rotational_speed": 1620.0,
+        "torque": 29.4,
+        "tool_wear": 75.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

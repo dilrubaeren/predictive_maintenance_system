@@ -1,0 +1,14 @@
+{
+    "machine_id": "L49573",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 299.2,
+        "process_temp": 308.5,
+        "rotational_speed": 1544.0,
+        "torque": 41.6,
+        "tool_wear": 146.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:50",
+    "last_updated": "2025-08-04 14:10:50"
+}

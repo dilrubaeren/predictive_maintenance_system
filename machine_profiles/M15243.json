@@ -1,0 +1,14 @@
+{
+    "machine_id": "M15243",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 297.5,
+        "process_temp": 308.6,
+        "rotational_speed": 1842.0,
+        "torque": 27.0,
+        "tool_wear": 133.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

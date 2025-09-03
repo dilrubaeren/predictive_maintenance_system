@@ -1,0 +1,14 @@
+{
+    "machine_id": "M17028",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 299.5,
+        "process_temp": 309.1,
+        "rotational_speed": 1420.0,
+        "torque": 49.5,
+        "tool_wear": 5.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:50",
+    "last_updated": "2025-08-04 14:10:50"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "L47308",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 299.0,
+        "process_temp": 308.6,
+        "rotational_speed": 1587.0,
+        "torque": 38.6,
+        "tool_wear": 124.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:47",
+    "last_updated": "2025-08-04 14:10:47"
+}

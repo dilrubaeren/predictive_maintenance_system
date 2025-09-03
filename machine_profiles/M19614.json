@@ -1,0 +1,14 @@
+{
+    "machine_id": "M19614",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 303.3,
+        "process_temp": 311.5,
+        "rotational_speed": 1384.0,
+        "torque": 54.8,
+        "tool_wear": 48.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:52",
+    "last_updated": "2025-08-04 14:10:52"
+}

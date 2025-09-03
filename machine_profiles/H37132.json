@@ -1,0 +1,14 @@
+{
+    "machine_id": "H37132",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 300.6,
+        "process_temp": 311.7,
+        "rotational_speed": 1427.0,
+        "torque": 44.6,
+        "tool_wear": 87.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

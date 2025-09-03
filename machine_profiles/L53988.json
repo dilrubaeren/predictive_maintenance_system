@@ -1,0 +1,14 @@
+{
+    "machine_id": "L53988",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 301.0,
+        "process_temp": 310.7,
+        "rotational_speed": 1391.0,
+        "torque": 45.0,
+        "tool_wear": 123.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:54",
+    "last_updated": "2025-08-04 14:10:54"
+}

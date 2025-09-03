@@ -1,0 +1,14 @@
+{
+    "machine_id": "L52893",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 302.2,
+        "process_temp": 311.9,
+        "rotational_speed": 1596.0,
+        "torque": 38.0,
+        "tool_wear": 156.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

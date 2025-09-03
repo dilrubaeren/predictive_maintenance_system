@@ -1,0 +1,14 @@
+{
+    "machine_id": "M23843",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 297.0,
+        "process_temp": 307.7,
+        "rotational_speed": 1261.0,
+        "torque": 51.1,
+        "tool_wear": 130.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:57",
+    "last_updated": "2025-08-04 14:10:57"
+}

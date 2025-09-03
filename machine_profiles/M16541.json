@@ -1,0 +1,14 @@
+{
+    "machine_id": "M16541",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 297.8,
+        "process_temp": 307.3,
+        "rotational_speed": 1804.0,
+        "torque": 26.0,
+        "tool_wear": 222.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

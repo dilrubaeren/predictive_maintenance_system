@@ -1,0 +1,14 @@
+{
+    "machine_id": "L48507",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.8,
+        "process_temp": 310.2,
+        "rotational_speed": 1814.0,
+        "torque": 26.8,
+        "tool_wear": 204.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

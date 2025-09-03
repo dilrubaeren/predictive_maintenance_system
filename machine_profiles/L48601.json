@@ -1,0 +1,14 @@
+{
+    "machine_id": "L48601",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.7,
+        "process_temp": 309.8,
+        "rotational_speed": 1589.0,
+        "torque": 31.8,
+        "tool_wear": 217.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

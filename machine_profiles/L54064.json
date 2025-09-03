@@ -1,0 +1,14 @@
+{
+    "machine_id": "L54064",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.8,
+        "process_temp": 311.2,
+        "rotational_speed": 1492.0,
+        "torque": 39.0,
+        "tool_wear": 109.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:54",
+    "last_updated": "2025-08-04 14:10:54"
+}

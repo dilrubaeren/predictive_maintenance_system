@@ -1,0 +1,14 @@
+{
+    "machine_id": "L48054",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 295.9,
+        "process_temp": 306.4,
+        "rotational_speed": 1575.0,
+        "torque": 28.5,
+        "tool_wear": 74.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

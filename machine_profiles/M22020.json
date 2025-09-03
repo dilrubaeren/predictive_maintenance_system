@@ -1,0 +1,14 @@
+{
+    "machine_id": "M22020",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.2,
+        "process_temp": 310.1,
+        "rotational_speed": 1485.0,
+        "torque": 40.5,
+        "tool_wear": 188.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

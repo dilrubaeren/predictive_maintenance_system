@@ -1,0 +1,14 @@
+{
+    "machine_id": "M22827",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 301.0,
+        "process_temp": 312.2,
+        "rotational_speed": 1629.0,
+        "torque": 32.6,
+        "tool_wear": 69.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:56",
+    "last_updated": "2025-08-04 14:10:56"
+}

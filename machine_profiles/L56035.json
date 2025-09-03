@@ -1,0 +1,14 @@
+{
+    "machine_id": "L56035",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 297.7,
+        "process_temp": 308.9,
+        "rotational_speed": 1662.0,
+        "torque": 28.1,
+        "tool_wear": 19.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:56",
+    "last_updated": "2025-08-04 14:10:56"
+}

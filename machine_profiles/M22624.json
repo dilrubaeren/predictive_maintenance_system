@@ -1,0 +1,14 @@
+{
+    "machine_id": "M22624",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.4,
+        "process_temp": 311.7,
+        "rotational_speed": 1555.0,
+        "torque": 38.7,
+        "tool_wear": 5.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "H37463",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 300.6,
+        "process_temp": 311.9,
+        "rotational_speed": 1604.0,
+        "torque": 30.5,
+        "tool_wear": 45.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:56",
+    "last_updated": "2025-08-04 14:10:56"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "M21822",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.7,
+        "process_temp": 311.1,
+        "rotational_speed": 1373.0,
+        "torque": 49.9,
+        "tool_wear": 96.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:54",
+    "last_updated": "2025-08-04 14:10:54"
+}

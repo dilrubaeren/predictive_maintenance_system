@@ -1,0 +1,14 @@
+{
+    "machine_id": "M22675",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 299.9,
+        "process_temp": 311.3,
+        "rotational_speed": 1703.0,
+        "torque": 28.4,
+        "tool_wear": 134.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

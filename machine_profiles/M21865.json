@@ -1,0 +1,14 @@
+{
+    "machine_id": "M21865",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.6,
+        "process_temp": 310.7,
+        "rotational_speed": 1339.0,
+        "torque": 52.9,
+        "tool_wear": 0.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

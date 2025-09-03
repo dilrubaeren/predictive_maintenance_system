@@ -1,0 +1,14 @@
+{
+    "machine_id": "L51458",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 302.0,
+        "process_temp": 310.1,
+        "rotational_speed": 1409.0,
+        "torque": 50.4,
+        "tool_wear": 172.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:52",
+    "last_updated": "2025-08-04 14:10:52"
+}

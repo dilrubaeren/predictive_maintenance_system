@@ -1,0 +1,14 @@
+{
+    "machine_id": "L49120",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.1,
+        "process_temp": 307.9,
+        "rotational_speed": 1578.0,
+        "torque": 35.6,
+        "tool_wear": 55.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

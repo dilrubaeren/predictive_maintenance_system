@@ -1,0 +1,14 @@
+{
+    "machine_id": "L55501",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.8,
+        "process_temp": 309.6,
+        "rotational_speed": 1442.0,
+        "torque": 50.0,
+        "tool_wear": 104.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:56",
+    "last_updated": "2025-08-04 14:10:56"
+}

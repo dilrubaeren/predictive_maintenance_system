@@ -1,0 +1,14 @@
+{
+    "machine_id": "H36877",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 300.1,
+        "process_temp": 311.4,
+        "rotational_speed": 1518.0,
+        "torque": 46.9,
+        "tool_wear": 87.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

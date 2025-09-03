@@ -1,0 +1,14 @@
+{
+    "machine_id": "L50560",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 301.4,
+        "process_temp": 310.7,
+        "rotational_speed": 1590.0,
+        "torque": 36.3,
+        "tool_wear": 43.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:51",
+    "last_updated": "2025-08-04 14:10:51"
+}

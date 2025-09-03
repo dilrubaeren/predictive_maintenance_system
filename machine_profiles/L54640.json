@@ -1,0 +1,14 @@
+{
+    "machine_id": "L54640",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.0,
+        "process_temp": 311.5,
+        "rotational_speed": 1445.0,
+        "torque": 41.6,
+        "tool_wear": 81.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

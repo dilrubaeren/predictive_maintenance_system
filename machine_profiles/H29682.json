@@ -1,0 +1,14 @@
+{
+    "machine_id": "H29682",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 297.9,
+        "process_temp": 308.0,
+        "rotational_speed": 1800.0,
+        "torque": 24.8,
+        "tool_wear": 44.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

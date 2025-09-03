@@ -1,0 +1,14 @@
+{
+    "machine_id": "M19671",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 303.4,
+        "process_temp": 312.0,
+        "rotational_speed": 1748.0,
+        "torque": 28.4,
+        "tool_wear": 200.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:52",
+    "last_updated": "2025-08-04 14:10:52"
+}

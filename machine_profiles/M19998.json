@@ -1,0 +1,14 @@
+{
+    "machine_id": "M19998",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 304.3,
+        "process_temp": 313.6,
+        "rotational_speed": 1489.0,
+        "torque": 40.3,
+        "tool_wear": 196.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

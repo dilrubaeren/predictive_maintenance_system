@@ -1,0 +1,14 @@
+{
+    "machine_id": "M16918",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 299.5,
+        "process_temp": 309.3,
+        "rotational_speed": 1902.0,
+        "torque": 24.0,
+        "tool_wear": 151.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

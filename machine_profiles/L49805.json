@@ -1,0 +1,14 @@
+{
+    "machine_id": "L49805",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 299.7,
+        "process_temp": 309.4,
+        "rotational_speed": 1399.0,
+        "torque": 39.9,
+        "tool_wear": 91.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:50",
+    "last_updated": "2025-08-04 14:10:50"
+}

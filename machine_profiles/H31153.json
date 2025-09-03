@@ -1,0 +1,14 @@
+{
+    "machine_id": "H31153",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 298.5,
+        "process_temp": 307.9,
+        "rotational_speed": 1260.0,
+        "torque": 54.2,
+        "tool_wear": 141.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

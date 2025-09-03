@@ -1,0 +1,14 @@
+{
+    "machine_id": "L53037",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 301.3,
+        "process_temp": 310.9,
+        "rotational_speed": 1760.0,
+        "torque": 23.9,
+        "tool_wear": 76.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

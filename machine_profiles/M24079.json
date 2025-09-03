@@ -1,0 +1,14 @@
+{
+    "machine_id": "M24079",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 297.7,
+        "process_temp": 308.8,
+        "rotational_speed": 1350.0,
+        "torque": 57.0,
+        "tool_wear": 105.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:57",
+    "last_updated": "2025-08-04 14:10:57"
+}

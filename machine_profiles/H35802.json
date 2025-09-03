@@ -1,0 +1,14 @@
+{
+    "machine_id": "H35802",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 300.3,
+        "process_temp": 309.9,
+        "rotational_speed": 1509.0,
+        "torque": 46.6,
+        "tool_wear": 125.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:54",
+    "last_updated": "2025-08-04 14:10:54"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "L56383",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 297.8,
+        "process_temp": 308.8,
+        "rotational_speed": 1559.0,
+        "torque": 35.2,
+        "tool_wear": 66.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:57",
+    "last_updated": "2025-08-04 14:10:57"
+}

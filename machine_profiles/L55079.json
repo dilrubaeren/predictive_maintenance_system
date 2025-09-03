@@ -1,0 +1,14 @@
+{
+    "machine_id": "L55079",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.9,
+        "process_temp": 312.4,
+        "rotational_speed": 1364.0,
+        "torque": 52.5,
+        "tool_wear": 125.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

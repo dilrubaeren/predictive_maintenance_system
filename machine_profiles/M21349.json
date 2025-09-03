@@ -1,0 +1,14 @@
+{
+    "machine_id": "M21349",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.7,
+        "process_temp": 309.8,
+        "rotational_speed": 1490.0,
+        "torque": 38.8,
+        "tool_wear": 173.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:54",
+    "last_updated": "2025-08-04 14:10:54"
+}

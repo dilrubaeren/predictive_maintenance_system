@@ -1,0 +1,14 @@
+{
+    "machine_id": "L54222",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.6,
+        "process_temp": 310.5,
+        "rotational_speed": 1642.0,
+        "torque": 29.9,
+        "tool_wear": 100.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

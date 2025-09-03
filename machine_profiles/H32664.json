@@ -1,0 +1,14 @@
+{
+    "machine_id": "H32664",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 301.2,
+        "process_temp": 309.8,
+        "rotational_speed": 1709.0,
+        "torque": 27.0,
+        "tool_wear": 151.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:51",
+    "last_updated": "2025-08-04 14:10:51"
+}

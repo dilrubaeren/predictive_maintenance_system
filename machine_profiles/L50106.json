@@ -1,0 +1,14 @@
+{
+    "machine_id": "L50106",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.7,
+        "process_temp": 309.7,
+        "rotational_speed": 1507.0,
+        "torque": 52.4,
+        "tool_wear": 163.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:50",
+    "last_updated": "2025-08-04 14:10:50"
+}

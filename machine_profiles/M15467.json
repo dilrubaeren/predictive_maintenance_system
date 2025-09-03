@@ -1,0 +1,14 @@
+{
+    "machine_id": "M15467",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 298.0,
+        "process_temp": 309.9,
+        "rotational_speed": 1565.0,
+        "torque": 33.9,
+        "tool_wear": 40.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

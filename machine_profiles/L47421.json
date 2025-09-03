@@ -1,0 +1,14 @@
+{
+    "machine_id": "L47421",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 298.0,
+        "process_temp": 308.1,
+        "rotational_speed": 1777.0,
+        "torque": 24.3,
+        "tool_wear": 200.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

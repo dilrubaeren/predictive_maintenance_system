@@ -1,0 +1,14 @@
+{
+    "machine_id": "M20529",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 302.2,
+        "process_temp": 311.5,
+        "rotational_speed": 1479.0,
+        "torque": 39.5,
+        "tool_wear": 36.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

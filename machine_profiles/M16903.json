@@ -1,0 +1,14 @@
+{
+    "machine_id": "M16903",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 299.2,
+        "process_temp": 309.0,
+        "rotational_speed": 1597.0,
+        "torque": 30.3,
+        "tool_wear": 115.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

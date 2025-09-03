@@ -1,0 +1,14 @@
+{
+    "machine_id": "M21325",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.5,
+        "process_temp": 309.8,
+        "rotational_speed": 1416.0,
+        "torque": 48.5,
+        "tool_wear": 110.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:54",
+    "last_updated": "2025-08-04 14:10:54"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "M19013",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 302.0,
+        "process_temp": 310.4,
+        "rotational_speed": 1212.0,
+        "torque": 55.6,
+        "tool_wear": 79.0,
+        "failure": 1
+    },
+    "created_at": "2025-08-04 14:10:52",
+    "last_updated": "2025-08-04 14:10:52"
+}

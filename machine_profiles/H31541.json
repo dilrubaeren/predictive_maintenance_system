@@ -1,0 +1,14 @@
+{
+    "machine_id": "H31541",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 299.3,
+        "process_temp": 309.0,
+        "rotational_speed": 1425.0,
+        "torque": 40.6,
+        "tool_wear": 123.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

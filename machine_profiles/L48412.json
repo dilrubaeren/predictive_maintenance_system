@@ -1,0 +1,14 @@
+{
+    "machine_id": "L48412",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 297.2,
+        "process_temp": 308.6,
+        "rotational_speed": 1500.0,
+        "torque": 37.1,
+        "tool_wear": 161.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

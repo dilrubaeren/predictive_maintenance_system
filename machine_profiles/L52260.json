@@ -1,0 +1,14 @@
+{
+    "machine_id": "L52260",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 304.2,
+        "process_temp": 313.3,
+        "rotational_speed": 1410.0,
+        "torque": 51.6,
+        "tool_wear": 47.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

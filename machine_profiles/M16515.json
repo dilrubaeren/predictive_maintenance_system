@@ -1,0 +1,14 @@
+{
+    "machine_id": "M16515",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 298.2,
+        "process_temp": 308.0,
+        "rotational_speed": 1577.0,
+        "torque": 35.9,
+        "tool_wear": 151.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

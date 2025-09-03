@@ -1,0 +1,14 @@
+{
+    "machine_id": "H33112",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 302.2,
+        "process_temp": 311.3,
+        "rotational_speed": 1758.0,
+        "torque": 26.4,
+        "tool_wear": 4.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:51",
+    "last_updated": "2025-08-04 14:10:51"
+}

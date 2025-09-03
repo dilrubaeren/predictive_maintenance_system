@@ -1,0 +1,14 @@
+{
+    "machine_id": "H32524",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 299.9,
+        "process_temp": 309.2,
+        "rotational_speed": 1525.0,
+        "torque": 33.2,
+        "tool_wear": 0.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:51",
+    "last_updated": "2025-08-04 14:10:51"
+}

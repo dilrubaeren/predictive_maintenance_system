@@ -1,0 +1,14 @@
+{
+    "machine_id": "L51938",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 303.5,
+        "process_temp": 311.6,
+        "rotational_speed": 1465.0,
+        "torque": 48.7,
+        "tool_wear": 60.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:52",
+    "last_updated": "2025-08-04 14:10:52"
+}

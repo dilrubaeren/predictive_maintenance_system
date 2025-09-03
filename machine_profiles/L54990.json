@@ -1,0 +1,14 @@
+{
+    "machine_id": "L54990",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 300.1,
+        "process_temp": 311.5,
+        "rotational_speed": 2218.0,
+        "torque": 17.0,
+        "tool_wear": 123.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:55",
+    "last_updated": "2025-08-04 14:10:55"
+}

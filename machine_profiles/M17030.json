@@ -1,0 +1,14 @@
+{
+    "machine_id": "M17030",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 299.4,
+        "process_temp": 309.1,
+        "rotational_speed": 1500.0,
+        "torque": 43.3,
+        "tool_wear": 10.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:50",
+    "last_updated": "2025-08-04 14:10:50"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "M17825",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.7,
+        "process_temp": 309.5,
+        "rotational_speed": 1838.0,
+        "torque": 24.9,
+        "tool_wear": 66.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:50",
+    "last_updated": "2025-08-04 14:10:50"
+}

@@ -1,0 +1,14 @@
+{
+    "machine_id": "L49241",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 299.7,
+        "process_temp": 309.6,
+        "rotational_speed": 1359.0,
+        "torque": 50.7,
+        "tool_wear": 161.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

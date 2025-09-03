@@ -1,0 +1,14 @@
+{
+    "machine_id": "H34769",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 303.3,
+        "process_temp": 312.5,
+        "rotational_speed": 1328.0,
+        "torque": 49.8,
+        "tool_wear": 120.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:53",
+    "last_updated": "2025-08-04 14:10:53"
+}

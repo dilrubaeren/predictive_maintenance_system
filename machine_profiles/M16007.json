@@ -1,0 +1,14 @@
+{
+    "machine_id": "M16007",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 297.1,
+        "process_temp": 308.0,
+        "rotational_speed": 1690.0,
+        "torque": 25.6,
+        "tool_wear": 159.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:49",
+    "last_updated": "2025-08-04 14:10:49"
+}

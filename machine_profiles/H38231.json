@@ -1,0 +1,14 @@
+{
+    "machine_id": "H38231",
+    "machine_type": "H",
+    "features": {
+        "air_temp": 297.3,
+        "process_temp": 308.6,
+        "rotational_speed": 1376.0,
+        "torque": 53.5,
+        "tool_wear": 112.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:56",
+    "last_updated": "2025-08-04 14:10:56"
+}

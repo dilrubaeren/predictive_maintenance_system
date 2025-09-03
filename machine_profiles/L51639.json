@@ -1,0 +1,14 @@
+{
+    "machine_id": "L51639",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 302.6,
+        "process_temp": 310.4,
+        "rotational_speed": 1743.0,
+        "torque": 26.3,
+        "tool_wear": 191.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:52",
+    "last_updated": "2025-08-04 14:10:52"
+}

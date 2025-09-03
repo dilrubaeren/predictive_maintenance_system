@@ -1,0 +1,14 @@
+{
+    "machine_id": "M17739",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 300.6,
+        "process_temp": 309.4,
+        "rotational_speed": 1367.0,
+        "torque": 63.2,
+        "tool_wear": 45.0,
+        "failure": 1
+    },
+    "created_at": "2025-08-04 14:10:50",
+    "last_updated": "2025-08-04 14:10:50"
+}

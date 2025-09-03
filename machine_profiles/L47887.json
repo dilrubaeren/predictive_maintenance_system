@@ -1,0 +1,14 @@
+{
+    "machine_id": "L47887",
+    "machine_type": "L",
+    "features": {
+        "air_temp": 297.7,
+        "process_temp": 308.9,
+        "rotational_speed": 1838.0,
+        "torque": 27.3,
+        "tool_wear": 99.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:48",
+    "last_updated": "2025-08-04 14:10:48"
+}

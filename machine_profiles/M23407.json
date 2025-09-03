@@ -1,0 +1,14 @@
+{
+    "machine_id": "M23407",
+    "machine_type": "M",
+    "features": {
+        "air_temp": 298.4,
+        "process_temp": 309.4,
+        "rotational_speed": 1666.0,
+        "torque": 24.3,
+        "tool_wear": 68.0,
+        "failure": 0
+    },
+    "created_at": "2025-08-04 14:10:56",
+    "last_updated": "2025-08-04 14:10:56"
+}
