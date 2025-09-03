@@ -5,7 +5,7 @@ Uygulama, işlenen sensör verilerini kullanarak farklı makine öğrenmesi mode
 
 ---
 
-## 🚀 Özellikler  
+## Özellikler  
 
 - **Makine Listesi**: Sağ panelden makineler listelenir, seçilen makinenin özellikleri görüntülenir.  
 - **Model Seçimi**: Kullanıcı önceden eğitilmiş modellerden (SVM, Random Forest, XGBoost) birini seçerek tahmin yapabilir.  
@@ -16,7 +16,7 @@ Uygulama, işlenen sensör verilerini kullanarak farklı makine öğrenmesi mode
 
 ---
 
-## 📊 Veri Seti  
+## Veri Seti  
 
 Proje, UCI Machine Learning Repository’de bulunan **AI4I 2020 Predictive Maintenance Dataset** veri setini kullanır.  
 
@@ -36,7 +36,7 @@ Proje, UCI Machine Learning Repository’de bulunan **AI4I 2020 Predictive Maint
 
 ---
 
-## 📂 Proje Yapısı  
+## Proje Yapısı  
 
 ```
 ├── data/                          # Veri seti ve işlenmiş veriler
@@ -58,7 +58,7 @@ Proje, UCI Machine Learning Repository’de bulunan **AI4I 2020 Predictive Maint
 
 ---
 
-## ⚙️ Kurulum  
+## Kurulum  
 
 ```bash
 # Depoyu klonla
@@ -86,7 +86,7 @@ joblib
 
 ---
 
-## ▶️ Kullanım  
+## Kullanım  
 
 ```bash
 python main.py
@@ -96,22 +96,4 @@ python main.py
 - GUI üzerinden makine seçilip model belirlenerek tahmin yapılabilir.  
 - Raporlama özelliği ile riskli makineler CSV formatında dışa aktarılabilir.  
 
----
-
-## 📸 Ekran Görselleri  
-
-_(Buraya GUI ekran görüntülerini ekleyebilirsin)_  
-
----
-
-## 🔮 Gelecek Çalışmalar  
-
-- Daha fazla makine öğrenmesi algoritmasının eklenmesi (LightGBM, CatBoost).  
-- Web tabanlı arayüz geliştirme (Flask/Django/Streamlit).  
-- Gerçek zamanlı veri akışı entegrasyonu (IoT cihazları üzerinden).  
-
----
-
-## 📜 Lisans  
-
-Bu proje yalnızca eğitim amaçlıdır.  
+---  
